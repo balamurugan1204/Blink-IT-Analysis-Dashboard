@@ -14,15 +14,25 @@ The Blink IT app wants to create an annual sales report for 2024. So that, the o
    
 # Steps in Project 
 •	Requirement Gathering/ Business Requirements 
+
 •	Data Walkthrough 
+
 •	Data Connection 
+
 •	Data Cleaning / Quality Check 
+
 •	Data Modeling 
+
 •	Data Processing 
+
 •	DAX Calculations 
+
 •	Dashboard Lay outing 
+
 •	Charts Development and Formatting 
+
 •	Dashboard / Report Development 
+
 •	Insights Generation
 
 # Chart's Requirements 
