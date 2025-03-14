@@ -15,7 +15,7 @@ The Blink IT app wants to create an annual sales report for 2024. So that, the o
 # Steps in Project 
 •	Requirement Gathering/ Business Requirements 
 
-•	Data Walkthrough 
+•	Data Walkthrough
 
 •	Data Connection 
 
